@@ -1,0 +1,30 @@
+body {
+  font-family: 'Press Start 2P',
+    cursive;
+}
+
+.warna-merah {
+  color: red;
+}
+
+#element-h {
+  background-color: aqua;
+  margin: 20px;
+  padding: 30px;
+}
+
+#element-p {
+  background-color: blue;
+  color: white;
+  margin: 30px;
+  padding: 20px;
+}
+
+.ukuran-font-kecil {
+  font-size: 20;
+}
+
+.warna-font-kuning {
+  color: blue;
+}
+
